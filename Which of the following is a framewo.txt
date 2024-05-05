@@ -1,0 +1,205 @@
+Which of the following is a framework that can help you run a unit test?
+
+1 point
+
+JavaFrame
+
+
+
+Jest
+
+
+
+JFrame
+
+
+
+JavaTest
+
+
+2.
+Question 2
+When the following test executes, what format will the result be?
+
+
+1
+function multiply(a, b) { return a; } expect(multiply(2, 2)).toBe(4); 
+
+1 point
+
+Function
+
+
+
+True/False
+
+
+
+Success/Fail
+
+
+
+String
+
+
+3.
+Question 3
+What is End-to-end testing (e2e)?
+
+1 point
+
+End-to-end testing is a comprehensive test that starts at the beginning of your code and runs to the end.
+
+
+
+End-to-end testing tries to imitate how a user might interact with your application.
+
+
+
+End-to-end testing is testing how parts of your system interact with other parts of your system.
+
+
+
+End-to-end testing revolves around the idea of having separate, small pieces of code that are easy to test.
+
+
+4.
+Question 4
+Which of the following describes a measure of what percentage of your code is covered by tests?
+
+1 point
+
+Test%
+
+
+
+Code coverage
+
+
+
+TestMeasure
+
+
+
+Test coverage
+
+
+5.
+Question 5
+The development of Node.js led to the ability to do which of the following?
+
+1 point
+
+Estimate code coverage
+
+
+
+Download and manage packages
+
+
+
+Run unit tests
+
+
+
+Write full-stack JavaScript programs.
+
+
+6.
+Question 6
+Which of the following are NOT one of the three types of testing?
+
+1 point
+
+Integration testing
+
+
+
+Unit testing
+
+
+
+End-to-end testing
+
+
+
+Post-hoc testing
+
+
+7.
+Question 7
+Node package manager (npm) is used to do which of the following?
+
+1 point
+
+Test code coverage.
+
+
+
+Build a back end.
+
+
+
+Add code from places like Stack Overflow or github.
+
+
+
+Use a large number of libraries and frameworks as Node.js modules.
+
+
+8.
+Question 8
+Which file lists all your application's required node packages?
+
+1 point
+
+node.json
+
+
+
+npm.json
+
+
+
+package.json
+
+
+
+pkg.json
+
+
+9.
+Question 9
+True or False: End-to-end tests can be performed in a web browser without writing code. 
+
+1 point
+
+True
+
+
+
+False
+
+
+10.
+Question 10
+Which of the below statements would NOT be a benefit of Mocking?
+
+1 point
+
+Mocks, allow you to pretend that users are already there if the backend hasn't been built yet.
+
+
+
+Mocking is a substitute for testing.
+
+
+
+Mocking allows you to separate the code that you are testing from its related dependencies.
+
+
+
+You can test the front end functionality of your web app by mocking the data as if it came back from a server.
+
+
+Coursera Honor Code  Learn more
